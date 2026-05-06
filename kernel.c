@@ -1,4 +1,4 @@
-#include "drivers/drivers.h"
+#include "master.h"
 
 void kernel_early(void) {
     init_vga();
